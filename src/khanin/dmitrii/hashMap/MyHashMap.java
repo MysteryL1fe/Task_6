@@ -2,7 +2,6 @@ package khanin.dmitrii.hashMap;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Iterator;
 
 public class MyHashMap<K, V> {
     private EntryListItem[] table;
@@ -86,7 +85,6 @@ public class MyHashMap<K, V> {
     }
 
     private int getIndex(K key) {
-        System.out.println(String.format("%s, %s", key, key.hashCode()));
         int index = key.hashCode() % table.length;
         if (index < 0) {
             index += table.length;
