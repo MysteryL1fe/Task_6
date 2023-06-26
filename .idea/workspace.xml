@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="038665f1-2d28-461f-869a-36b0b81834b0" name="Changes" comment="task created">
+      <change afterPath="$PROJECT_DIR$/src/khanin/dmitrii/hashMap/v1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khanin/dmitrii/hashMap/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khanin/dmitrii/hashMap/Logic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khanin/dmitrii/hashMap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khanin/dmitrii/hashMap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khanin/dmitrii/hashMap/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khanin/dmitrii/hashMap/MyHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +89,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/khanin/dmitrii/hashMap/Logic.java</url>
-          <line>143</line>
-          <option name="timeStamp" value="7" />
+          <line>291</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
